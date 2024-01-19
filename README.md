@@ -56,4 +56,6 @@ If you have suggestions, improvements, or would like to collaborate on a project
 
 You can reach me at elvinrustamov.03@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/elvin-rustamov-619101246/).
 
+Kaggle: www.kaggle.com/elvinrustam
+
 Happy coding and data exploring! 🚀
