@@ -27,7 +27,7 @@ I'm passionate about leveraging data to extract meaningful insights, build intel
 
 Here's a sneak peek into some of the projects you'll find in this repository:
 
-1. **Project Name 1:** Brief description or goal of the project.
+1. **Ebay Scraper:** I employ web scraping methods to gather data on PC laptops and netbooks available on eBay for analytical or research purposes.
 
 Each project directory contains its own README with detailed information about the problem statement, methodologies, and results.
 
