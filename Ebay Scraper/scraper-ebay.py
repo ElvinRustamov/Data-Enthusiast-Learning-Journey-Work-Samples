@@ -279,7 +279,7 @@ class EbayScraper:
                 break
 
 # Example usage:
-# main_url = "https://www.ebay.com/sch/i.html?_nkw=laptops&_pgn="
+# main_url = "https://www.ebay.com/b/PC-Laptops-Netbooks/177/bn_317584?LH_BIN=1&rt=nc&_pgn=1"
 # header = {"User-Agent": "Your User Agent"}
 # ebay_scraper = EbayScraper(main_url, header)
 # ebay_scraper.url_scraper(5)  # Scrape information from the first 5 pages of search results
