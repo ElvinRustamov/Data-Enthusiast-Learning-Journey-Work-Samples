@@ -282,4 +282,4 @@ class EbayScraper:
 # main_url = "https://www.ebay.com/b/PC-Laptops-Netbooks/177/bn_317584?LH_BIN=1&rt=nc&_pgn=1"
 # header = {"User-Agent": "Your User Agent"}
 # ebay_scraper = EbayScraper(main_url, header)
-# ebay_scraper.url_scraper(5)  # Scrape information from the first 5 pages of search results
+# ebay_scraper.url_scraper(10)  # Scrape information from the first 10 pages of search results
