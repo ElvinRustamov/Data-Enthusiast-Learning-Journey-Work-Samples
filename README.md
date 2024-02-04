@@ -28,6 +28,7 @@ I'm passionate about leveraging data to extract meaningful insights, build intel
 Here's a sneak peek into some of the projects you'll find in this repository:
 
 1. **Ebay Scraper:** I employ web scraping methods to gather data on PC laptops and netbooks available on eBay for analytical or research purposes.
+2. **Coursera:** I developed a Python class to scrape Coursera courses based on specific keywords, extracting course URLs and content, subsequently creating a structured dataset, cleaning it, and finally building a Power BI dashboard for comprehensive data visualization.
 
 Each project directory contains its own README with detailed information about the problem statement, methodologies, and results.
 
