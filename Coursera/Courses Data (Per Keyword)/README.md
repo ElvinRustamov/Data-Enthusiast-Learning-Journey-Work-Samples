@@ -13,4 +13,3 @@ I retrieved courses information from Coursera (utilized specific keywords).
 - Math and Logic
 - Personal Development
 - Physical Science and Engineering
-- Social Sciences
