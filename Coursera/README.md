@@ -25,10 +25,3 @@ Step 5: Create a Structured Dataset
 
 Step 6: Clean the Dataset in Python
 - Perform data cleaning operations using Pandas or other libraries, based on the dataset's structure and specific requirements.
-
-Step 7: Create a Dashboard in Power BI
-- Open Power BI Desktop.
-- Load the cleaned dataset.
-- Design the dashboard by adding visuals, charts, and tables.
-- Customize the layout and appearance as needed.
-- Save the Power BI file.
