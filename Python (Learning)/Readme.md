@@ -113,6 +113,7 @@ Once Python is installed, you can start coding using any text editor or integrat
 - Find The Gold (Medium)
 - Bill Roulette (Basic)
 - Cryptography with Python (Medium)
+- Calculate Total Price (Dictionary, Basic)
 
 Happy coding! 🐍
 
