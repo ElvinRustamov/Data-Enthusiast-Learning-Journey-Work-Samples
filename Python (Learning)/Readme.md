@@ -114,6 +114,7 @@ Once Python is installed, you can start coding using any text editor or integrat
 - Bill Roulette (Basic)
 - Cryptography with Python (Medium)
 - Calculate Total Price (Dictionary, Basic)
+- Blind Auction (Medium)
 
 Happy coding! 🐍
 
