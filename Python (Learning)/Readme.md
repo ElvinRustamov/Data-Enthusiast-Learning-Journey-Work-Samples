@@ -115,6 +115,7 @@ Once Python is installed, you can start coding using any text editor or integrat
 - Cryptography with Python (Medium)
 - Calculate Total Price (Dictionary, Basic)
 - Blind Auction (Medium)
+- Quiz App (Medium)
 
 Happy coding! 🐍
 
