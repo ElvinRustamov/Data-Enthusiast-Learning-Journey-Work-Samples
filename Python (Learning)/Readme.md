@@ -116,6 +116,7 @@ Once Python is installed, you can start coding using any text editor or integrat
 - Calculate Total Price (Dictionary, Basic)
 - Blind Auction (Medium)
 - Quiz App (Medium)
+- English to Pig Latin (Basic)
 
 Happy coding! 🐍
 
