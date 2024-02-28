@@ -96,28 +96,34 @@ Once Python is installed, you can start coding using any text editor or integrat
 
 ## Projects
 
+### Basic Projects
 - Trip Cost Calculator (Basic)
 - Temperature Converter (Basic)
 - String Formatting (Basic)
 - Score Checker (Basic)
-- Rock, Paper, Scissors (Medium)
-- Random Password Generator (Medium)
+- English to Pig Latin (Basic)
+- Music App (Basic)
+- Powerball Lottery (Basic)
 - Leap Year (Basic)
-- Hangman (Medium)
 - Guessing Number (Basic)
 - Group Name (Basic)
 - Gross Pay (Basic)
 - Greeting (Basic)
 - Fizz Buzz (Basic)
 - Dice Rolling (Basic)
-- Find The Gold (Medium)
 - Bill Roulette (Basic)
-- Cryptography with Python (Medium)
 - Calculate Total Price (Dictionary, Basic)
+
+### Medium Projects
+- Rock, Paper, Scissors (Medium)
+- Random Password Generator (Medium)
+- Hangman (Medium)
+- Find The Gold (Medium)
+- Cryptography with Python (Medium)
 - Blind Auction (Medium)
 - Quiz App (Medium)
-- English to Pig Latin (Basic)
-- Music App (Basic)
+
+### Advanced Projects
 
 Happy coding! 🐍
 
