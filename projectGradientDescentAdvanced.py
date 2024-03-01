@@ -46,26 +46,7 @@ class GradientDescent:
 
                 function[parameter] = {'multi': multiply, 'power': power, 'label': p}
         return function
-
-    def creating_sample_dataset(self):
-        function = self.creating_function()
-        dataset_column_name = [f"Parameter {i}" for i in range(len(function))]
-        dataset_column_name.append('y')
-        parameters = []
-        for _ in range(5):
-            temp_p = []
-            for v in function.values():
-                f_value = np.random.randint(1, 5, dtype=int)
-                if v['label'] in self.derivative.keys(): temp_p.append(self.derivative[v['label']]['function'](f_value))
-                else: temp_p.append((f_value ** v['power']) * v['multi'])
-
-            temp_y = sum(temp_p) + self.intercept
-            temp_p.append(temp_y)
-            parameters.append(temp_p)
-
-        dataset = pd.DataFrame(parameters, columns=dataset_column_name)
-        return function, dataset
-
+        
     def gradient_descent(self):
         function = self.creating_function()
         initial_guess = []
