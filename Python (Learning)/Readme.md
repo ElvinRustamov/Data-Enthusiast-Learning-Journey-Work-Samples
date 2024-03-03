@@ -122,6 +122,7 @@ Once Python is installed, you can start coding using any text editor or integrat
 - Cryptography with Python
 - Blind Auction
 - Quiz App
+- Flooder Game
 
 ### Advanced Projects
 
