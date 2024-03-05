@@ -2,6 +2,23 @@
 
 Welcome to the C++ Learning Guide! This guide is designed to help you progress from a beginner to an advanced level in C++ programming language.
 
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+2. [Basic Concepts](#basic-concepts)
+3. [Control Flow](#control-flow)
+4. [Data Types and Structures](#data-types-and-structures)
+5. [Functions](#functions)
+6. [Classes and Objects](#classes-and-objects)
+7. [Pointers and Memory Management](#pointers-and-memory-management)
+8. [File Handling](#file-handling)
+9. [Exception Handling](#exception-handling)
+10. [Templates](#templates)
+11. [Standard Template Library (STL)](#standard-template-library-stl)
+12. [Concurrency](#concurrency)
+13. [Advanced Topics](#advanced-topics)
+14. [Projects](#projects)
+
 ## Getting Started
 
 Before starting with C++ programming, ensure you have a C++ compiler installed on your system. You can use popular compilers such as GCC (GNU Compiler Collection) or Clang. These compilers are usually available through package managers on various operating systems.
@@ -88,4 +105,3 @@ Before starting with C++ programming, ensure you have a C++ compiler installed o
 ## Projects
 
 Happy coding! 🚀
-
