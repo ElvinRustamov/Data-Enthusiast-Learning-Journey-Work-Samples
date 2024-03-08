@@ -36,7 +36,7 @@ Each project directory contains its own README with detailed information about t
 
 I'm actively exploring and working with the following technologies:
 
-- Python
+- Python, C++
 - Pandas, NumPy, and other data manipulation libraries
 - SQL and NoSQL databases
 - Machine learning frameworks (Scikit-Learn, TensorFlow, PyTorch)
