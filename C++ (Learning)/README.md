@@ -104,4 +104,6 @@ Before starting with C++ programming, ensure you have a C++ compiler installed o
 
 ## Projects
 
+- Shopping List Calculator with Qt (Basic)
+
 Happy coding! 🚀
