@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>tcpclient</class>
+ <widget class="QDialog" name="tcpclient">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>347</width>
+    <height>408</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="connectPushButton">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>250</y>
+     <width>281</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Connect</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exitPushButton">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>280</y>
+     <width>281</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="ipAddressLineEdit">
+   <property name="geometry">
+    <rect>
+     <x>132</x>
+     <y>90</y>
+     <width>181</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="portLineEdit">
+   <property name="geometry">
+    <rect>
+     <x>132</x>
+     <y>140</y>
+     <width>181</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>90</y>
+     <width>69</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>IP Address</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>140</y>
+     <width>26</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Port</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>50</y>
+     <width>82</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Client Name</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="clientNameLineEdit">
+   <property name="geometry">
+    <rect>
+     <x>132</x>
+     <y>50</y>
+     <width>181</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>190</y>
+     <width>58</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Message</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="convertButton">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>310</y>
+     <width>281</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Convert</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>360</y>
+     <width>91</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Md5 Version</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="md5LineEdit">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>350</y>
+     <width>181</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="messageLineEdit">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>180</y>
+     <width>181</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>10</y>
+     <width>151</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Text to Md5 Converter</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
