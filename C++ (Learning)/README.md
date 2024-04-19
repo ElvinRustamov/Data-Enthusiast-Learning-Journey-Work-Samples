@@ -107,5 +107,6 @@ Before starting with C++ programming, ensure you have a C++ compiler installed o
 - Shopping List Calculator with Qt (Basic)
 - Paint with Qt (Medium)
 - File Mover with Qt (Medium)
+- Bookstore (Qt) (Advanced)
 
 Happy coding! 🚀
