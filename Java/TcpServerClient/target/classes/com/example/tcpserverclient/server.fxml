@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="299.0" prefWidth="429.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.tcpserverclient.ServerController">
+   <children>
+      <Button fx:id="create_client_button" layoutX="106.0" layoutY="20.0" mnemonicParsing="false" onAction="#createClientAction" prefHeight="26.0" prefWidth="190.0" text="Create a Client" />
+      <TextArea fx:id="text_area" layoutX="17.0" layoutY="68.0" prefHeight="200.0" prefWidth="394.0" />
+   </children>
+</AnchorPane>
