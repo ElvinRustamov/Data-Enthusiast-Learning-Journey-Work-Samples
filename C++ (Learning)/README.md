@@ -110,5 +110,6 @@ Before starting with C++ programming, ensure you have a C++ compiler installed o
 - Bookstore Program with Qt (Advanced)
 - Employee Information Program with Qt (Medium)
 - TCP Server & Client with Qt (Advanced)
+- Music-Video Player with Qt (Medium)
 
 Happy coding! 🚀
