@@ -133,5 +133,9 @@ Before diving into Java programming, make sure you have the Java Development Kit
 - Java Modules (Java 9+)
 - JavaFX Animation and Effects
 
+## Projects
+
+- TcpServerClient (Medium)
+
 Happy coding with Java and JavaFX! 🚀
 
