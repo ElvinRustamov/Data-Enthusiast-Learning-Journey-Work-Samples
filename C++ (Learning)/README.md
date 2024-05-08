@@ -111,5 +111,6 @@ Before starting with C++ programming, ensure you have a C++ compiler installed o
 - Employee Information Program with Qt (Medium)
 - TCP Server & Client with Qt (Advanced)
 - Music-Video Player with Qt (Medium)
+- Creating custom widget with Qt (Pie Chart) (Advanced)
 
 Happy coding! 🚀
