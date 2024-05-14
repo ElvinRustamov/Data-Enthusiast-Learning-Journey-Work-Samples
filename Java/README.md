@@ -135,8 +135,10 @@ Before diving into Java programming, make sure you have the Java Development Kit
 
 ## Projects
 
-- TcpServerClient (Medium)
-- TcpServerClient Version 2 (Medium)
+- TcpServerClient with JavaFx (Medium)
+- TcpServerClient Version 2 with JavaFx (Medium)
+- EmployeeInformation (Hr System) with JavaFx, PostreSQL (Advanced)
+- Custom PieChart with JavaFx (Medium)
 
 Happy coding with Java and JavaFX! 🚀
 
