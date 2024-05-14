@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="150.0" prefWidth="150.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.client.FirstWindowController">
+   <children>
+      <Label layoutX="51.0" layoutY="14.0" prefHeight="18.0" prefWidth="53.0" text="Welcome" />
+      <Label layoutX="24.0" layoutY="40.0" prefHeight="18.0" prefWidth="106.0" text="Create a new client" />
+      <Button layoutX="24.0" layoutY="75.0" mnemonicParsing="false" onAction="#createNewClientAction" prefHeight="26.0" prefWidth="106.0" text="New Client" />
+   </children>
+</AnchorPane>
