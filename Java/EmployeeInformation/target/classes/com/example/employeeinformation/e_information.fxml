@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="550.0" prefWidth="670.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.employeeinformation.employeeInformationController">
+    <children>
+        <TableView fx:id="table_view" layoutX="183.0" prefHeight="555.0" prefWidth="518.0">
+            <columns>
+                <TableColumn fx:id="fin_column" prefWidth="75.0" text="FIN" />
+                <TableColumn fx:id="name_column" prefWidth="75.0" text="Name" />
+                <TableColumn fx:id="surname_column" prefWidth="75.0" text="Surname" />
+                <TableColumn fx:id="phone_number_column" prefWidth="75.0" text="Phone Number" />
+                <TableColumn fx:id="job_title_column" prefWidth="75.0" text="Job title" />
+                <TableColumn fx:id="address_column" prefWidth="75.0" text="Address" />
+                <TableColumn fx:id="age_column" prefWidth="65.5999755859375" text="Age" />
+            </columns>
+        </TableView>
+        <Label layoutX="62.0" layoutY="21.0" text="Welcome" />
+      <Label layoutX="14.0" layoutY="56.0" text="FIN" />
+      <Label layoutX="16.0" layoutY="97.0" text="Name" />
+      <Label layoutX="8.0" layoutY="141.0" text="Surname" />
+      <Label layoutX="1.0" layoutY="184.0" text="Phone Number" />
+      <Label layoutX="3.0" layoutY="216.0" text="Job Title" />
+      <Label layoutX="1.0" layoutY="251.0" text="Address" />
+      <Label layoutX="12.0" layoutY="290.0" text="Age" />
+      <TextField fx:id="job_text_field" layoutX="53.0" layoutY="212.0" prefHeight="26.0" prefWidth="129.0" />
+      <TextField fx:id="age_text_field" layoutX="53.0" layoutY="285.0" prefHeight="26.0" prefWidth="129.0" />
+      <TextField fx:id="address_text_field" layoutX="53.0" layoutY="247.0" prefHeight="26.0" prefWidth="129.0" />
+      <TextField fx:id="phone_text_field" layoutX="87.0" layoutY="179.0" prefHeight="26.0" prefWidth="95.0" />
+      <TextField fx:id="surname_text_field" layoutX="61.0" layoutY="136.0" prefHeight="26.0" prefWidth="122.0" />
+      <TextField fx:id="name_text_field" layoutX="61.0" layoutY="93.0" prefHeight="26.0" prefWidth="122.0" />
+      <TextField fx:id="fin_text_field" layoutX="61.0" layoutY="51.0" prefHeight="26.0" prefWidth="122.0" />
+      <Button fx:id="edit_button" layoutX="18.0" layoutY="368.0" mnemonicParsing="false" onAction="#editAction" prefHeight="26.0" prefWidth="150.0" text="Edit" />
+      <Button fx:id="delete_button" layoutX="18.0" layoutY="404.0" mnemonicParsing="false" onAction="#deleteOnAction" prefHeight="26.0" prefWidth="150.0" text="Delete" />
+      <Button fx:id="add_button" layoutX="18.0" layoutY="441.0" mnemonicParsing="false" onAction="#addButtonAction" prefHeight="26.0" prefWidth="150.0" text="Add" />
+      <Button fx:id="search_button" layoutX="18.0" layoutY="477.0" mnemonicParsing="false" onAction="#searchOnAction" prefHeight="26.0" prefWidth="150.0" text="Search" />
+      <Label fx:id="label_error" layoutX="18.0" layoutY="318.0" prefHeight="18.0" prefWidth="150.0" textFill="RED" />
+      <Label fx:id="label_success" layoutX="18.0" layoutY="336.0" prefHeight="18.0" prefWidth="150.0" textFill="#00ff55" />
+      <Button layoutX="18.0" layoutY="514.0" mnemonicParsing="false" onAction="#resetAction" prefHeight="26.0" prefWidth="150.0" text="Reset" />
+    </children>
+</AnchorPane>
