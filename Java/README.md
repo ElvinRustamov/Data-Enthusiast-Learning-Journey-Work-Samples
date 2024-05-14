@@ -136,6 +136,7 @@ Before diving into Java programming, make sure you have the Java Development Kit
 ## Projects
 
 - TcpServerClient (Medium)
+- TcpServerClient Version 2 (Medium)
 
 Happy coding with Java and JavaFX! 🚀
 
