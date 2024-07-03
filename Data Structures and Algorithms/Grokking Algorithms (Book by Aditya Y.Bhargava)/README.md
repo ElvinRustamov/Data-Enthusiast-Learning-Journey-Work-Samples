@@ -18,6 +18,3 @@
 - **Visually Rich**: Uses illustrations and diagrams to make learning intuitive and engaging.
 - **Humorous and Relatable**: Employs humorous analogies to explain complex ideas.
 - **Step-by-Step Explanations**: Breaks down each algorithm and data structure into easy-to-follow steps.
-
-By the end of this book, readers will have a solid foundation in algorithms and the confidence to explore more advanced topics.
-
